@@ -7,3 +7,6 @@ Creating a new branch is quick AND simple.
 hahahhha ooo
 close fast forward
 uyi
+poooop
+bug branch
+mmamsmasmmas
